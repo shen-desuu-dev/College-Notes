@@ -11,10 +11,14 @@
             "id": "454c6fb24c3808c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Philippine Popular Cultures/SDG's.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SDG's"
             }
           }
         ]
@@ -175,11 +179,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "github-sync:Sync with Remote": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "73532c1dd8cf15ac",
+  "active": "454c6fb24c3808c1",
   "lastOpenFiles": [
     "Notes/Readings in Philippine History/Lesson 1..md",
     "2025-01-27.md",
