@@ -1,4 +1,8 @@
 {
-  "cssTheme": "Atom",
-  "baseFontSize": 12
+  "cssTheme": "Dracula Gemini",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "textFontFamily": "JetBrainsMonoNL Nerd Font",
+  "accentColor": "#7b60a4",
+  "showViewHeader": true
 }
